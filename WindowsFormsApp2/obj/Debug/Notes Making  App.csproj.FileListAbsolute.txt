@@ -1,0 +1,9 @@
+C:\Users\nikhi\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\nikhi\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\Notes Making  App.csproj.GenerateResource.cache
+C:\Users\nikhi\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\Notes Making  App.csproj.CoreCompileInputs.cache
+C:\Users\nikhi\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Notes Making App.exe.config
+C:\Users\nikhi\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Notes Making App.exe
+C:\Users\nikhi\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Notes Making App.pdb
+C:\Users\nikhi\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\NotesApp.Properties.Resources.resources
+C:\Users\nikhi\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\Notes Making App.exe
+C:\Users\nikhi\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\Notes Making App.pdb
